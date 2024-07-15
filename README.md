@@ -9,6 +9,9 @@ This VBA subroutine, `SelectRowsContainingText`, empowers users to quickly selec
 4. Enter the desired text strings to search for in the `searchText` array.
 5. The subroutine will automatically select rows containing any of the specified texts, simplifying data analysis tasks.
 
+To create this macro, you will need to use the personal file as show below within VBA and add the module within that one so that this is applied to every excel doc you open.
+![alt text](https://raw.githubusercontent.com/Hammerdown53/Excel-Row-Selector-Using-VBA/main/Screenshot%202024-07-15%20095411.png)
+
 ## Key Features:
 - **Flexible array-based search:** Define multiple text strings to search for within the worksheet.
 - **Dynamic row selection:** Automatically highlights entire rows containing the specified text, aiding in data visualization and analysis.
