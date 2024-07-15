@@ -1,6 +1,6 @@
 # Excel VBA Subroutine: SelectRowsContainingText
 
-This VBA subroutine, `SelectRowsContainingText`, empowers users to quickly select rows in an Excel worksheet that contain specific text strings. By defining an array of texts to search for, users can efficiently highlight rows that match their criteria.
+This VBA subroutine, `SelectRowsContainingText`, empowers users to quickly select rows in an Excel worksheet that contain specific text strings. By defining an array of texts to search for, users can efficiently highlight rows that match their criteria. I created this becuase everymonth I'm sent an email with hundreds of rows when I only need a few to do my calculations. Using this I can define spefic text found in rows that does not change for it to highlight with one click making a 30 mintue jobs turn into 5 minutes.
 
 ## How to Use:
 1. Open the Excel workbook containing the worksheet you want to search.
